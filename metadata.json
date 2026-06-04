@@ -1,0 +1,6 @@
+{
+  "name": "Pixel RPG Adventure",
+  "description": "Sebuah game RPG petualangan 2D Pixel Art berbasis HTML5 Canvas dan React dengan sistem 3 episode cerita, quest, inventory, dan dialog NPC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
