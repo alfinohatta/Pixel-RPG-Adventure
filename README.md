@@ -1,6 +1,6 @@
 # Pixel RPG Adventure
 
-An opinionated, modular 2D pixel-art RPG built with React, TypeScript and Vite.
+An modular 2D pixel-art RPG built with React, TypeScript and Vite.
 
 **Project category:** Game / Frontend — Single-page application (HTML5 Canvas + React)
 
